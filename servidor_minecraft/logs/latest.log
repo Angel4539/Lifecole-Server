@@ -108,3 +108,7 @@
 [03Oct2025 16:53:23.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelo4539 was slain by GNS_03
 [03Oct2025 16:53:29.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GNS_03 lost connection: Disconnected
 [03Oct2025 16:53:29.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GNS_03 left the game
+[03Oct2025 16:55:20.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Angelo4539 a server operator
+[03Oct2025 16:57:52.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angelo4539: Set the time to 1000]
+[03Oct2025 16:58:14.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Angelo4539: Set own game mode to Creative Mode]
+[03Oct2025 17:03:00.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelo4539 has made the advancement [Spooky Scary Skeleton]
